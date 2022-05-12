@@ -1,2 +1,2 @@
-const answer = prompt('');
-document.write('Ваш ответ: ' + answer)
+let answer = prompt('Введите сюда Ваш рост');
+document.write('Ваш рост: ' + '139см')
